@@ -1,0 +1,181 @@
+.body
+{
+    font-family: 'montserrat';
+}
+.navbar
+{
+    padding:0px !important;
+
+}
+.navbar-brand img
+{
+filter: contrast(95%);
+}
+.container
+{
+    width: 900px !important;
+}
+.h-100 p-5
+{
+    align-content: stretch;
+}
+.mt-auto
+{
+    margin-top:70px !important;
+}
+ul li a
+{
+    font-size: 10px;
+    font-family: 'montserrat';
+}
+.a::before {
+    content: url('img/image3.png')!important;
+    
+  }
+  .p
+  {
+    font-size: 12px;  
+    font-family: 'montserrat'; 
+  }
+  .span
+  {
+      margin:0 auto;
+      font-size: 12px; 
+      font-family: 'montserrat'; 
+  }
+  .h-100 p
+  {
+    font-size: 12px;    
+    font-family: 'montserrat';  
+  }
+  h2
+  {
+    font-size: 20px;   
+    font-family: 'montserrat'; 
+  }
+  .row
+  {
+    justify-content: space-between;  
+  }
+  .row img
+  {
+      border-radius: 20px;
+  }
+  .btn
+  {
+      border-radius: 50px;
+      width:140px;
+      height:48px;
+  }
+  .btn span
+  {
+      font-size: 16px;
+      font-family: 'montserrat';
+  }
+  .p1
+  {
+      font-size:14px ;
+      font-family: 'montserrat';
+  }
+  .d-flex
+  {
+    filter:contrast(95%);
+    
+  }
+  .col-md-6 img
+  {
+      border: 0px;
+  }
+  .py-5 ul
+  {
+      line-height: 10px;
+  }
+  .row-r1
+  {
+      justify-content: start;
+  }
+  .mt-auto
+  {
+     margin-top: 70px;
+  }
+  .mr-auto
+  {
+      margin-right: 0px;
+  }
+  .p2
+{
+    font-size:12px ;
+    font-family: 'montserrat';
+    display:inline-block;
+}
+.col5 
+{
+    filter:contrast(0%); 
+}
+.ul a
+{
+    font-size: 13px;
+    font-family: 'montserrat';
+}
+.usd
+{
+  height: 25px;
+  width:60px;
+  border-radius: 15px;
+  box-shadow:0 0 5px 5px #F5F5F6;
+  border-color: #ECF0F1;
+  background-color: white;
+}
+.ul a
+{
+    text-decoration-color: yellow;
+    text-decoration-line: ;
+}
+.sel
+{
+    height: 38px;
+    width:144px;  
+    border-radius: 15px; 
+}
+.sel1
+{
+    height: 38px;
+    width:144px; 
+    border-radius: 15px;  
+}
+.btn
+{
+    height: 38px; 
+  
+}
+.col-2 span 
+{
+  font-size: 10px;
+  font-family: 'montserrat';
+}
+.r
+{
+    margin-top:20px;
+}
+.r1
+{
+    margin-top:15px;
+}
+.ul1
+{
+    line-height: 0.5rem;
+}
+.r span
+{
+    font-size: 13px;  
+    font-family: 'montserrat';
+}
+.r3
+{
+    box-shadow:0 0 5px 5px #F5F5F6; 
+    border-radius: 15px; 
+}
+.b1
+{
+width:80px;
+}
